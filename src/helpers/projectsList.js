@@ -7,8 +7,8 @@ import project02Big from "./../img/projects/guitar.png";
 import project03 from "./../img/projects/small-scrol-site.png";
 import project03Big from "./../img/projects/scrol-site.png";
 
- import project04 from "./../img/projects/04.jpg";
- import project04Big from "./../img/projects/04-big.jpg";
+ import project04 from "./../img/projects/small-boost.png";
+ import project04Big from "./../img/projects/bootst.png";
 
 // import project05 from "./../img/projects/05.jpg";
 // import project05Big from "./../img/projects/05-big.jpg";
