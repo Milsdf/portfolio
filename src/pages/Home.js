@@ -10,7 +10,7 @@ const Home = () => {
 						<li className="content-list__item">
 							<h2 className="title-2">Frontend</h2>
 							<p>
-								JavaScript , ReactJS , HTML , CSS , SASS , API , Figma , AJAX 
+								JavaScript , ReactJS , HTML , CSS , SASS , API , Figma , AJAX , Bootstrap
 							</p>
 						</li>
 						
