@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/repository222/static/css/main.b44042eb.css",
-    "main.js": "/repository222/static/js/main.3bffeff6.js",
+    "main.js": "/repository222/static/js/main.d1f42c79.js",
     "static/js/453.b0318039.chunk.js": "/repository222/static/js/453.b0318039.chunk.js",
     "static/media/scrol-site.png": "/repository222/static/media/scrol-site.b1ea72afe21ef464e4d6.png",
     "static/media/guitar.png": "/repository222/static/media/guitar.8a76fb7f9a5ef9737095.png",
     "static/media/forecast.png": "/repository222/static/media/forecast.3880a71793453c938c48.png",
-    "static/media/small-scrol-site.png": "/repository222/static/media/small-scrol-site.dd029b0a739f7a4fa585.png",
-    "static/media/forecast -smal.png": "/repository222/static/media/forecast -smal.556ed82316ed409baf49.png",
-    "static/media/guitar-smal.png": "/repository222/static/media/guitar-smal.93d0e4a387e926d71243.png",
+    "static/media/clock.png": "/repository222/static/media/clock.56334723ac6c35faddeb.png",
+    "static/media/bootst.png": "/repository222/static/media/bootst.a2b873a42630339ff0b5.png",
+    "static/media/todolist.png": "/repository222/static/media/todolist.b42fa913260f9113b74c.png",
+    "static/media/transleter.png": "/repository222/static/media/transleter.32e74a9a61f54bfb1afe.png",
+    "static/media/text.png": "/repository222/static/media/text.94b1831854837229397b.png",
+    "static/media/quiz.png": "/repository222/static/media/quiz.64ac59ddfb2ae339d1c8.png",
     "static/media/header-bg.png": "/repository222/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/sun.svg": "/repository222/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/repository222/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -17,11 +20,11 @@
     "static/media/linkedIn.svg": "/repository222/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/repository222/index.html",
     "main.b44042eb.css.map": "/repository222/static/css/main.b44042eb.css.map",
-    "main.3bffeff6.js.map": "/repository222/static/js/main.3bffeff6.js.map",
+    "main.d1f42c79.js.map": "/repository222/static/js/main.d1f42c79.js.map",
     "453.b0318039.chunk.js.map": "/repository222/static/js/453.b0318039.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b44042eb.css",
-    "static/js/main.3bffeff6.js"
+    "static/js/main.d1f42c79.js"
   ]
 }
