@@ -3,7 +3,7 @@
 	padding: 40px 0;
 	min-height: 695px;
 
-	display: flex;
+	
 	justify-content: center;
 	align-items: center;
 
@@ -18,7 +18,7 @@
 }
 
 .header__wrapper {
-	padding: 0 15px;
+	
 	max-width: 660px;
 }
 
@@ -47,4 +47,8 @@
 
 .header__text p + p {
 	margin-top: 0.5em;
+}
+.project__img{
+	padding-bottom: 20px;
+	
 }

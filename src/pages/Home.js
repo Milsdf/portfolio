@@ -8,9 +8,9 @@ const Home = () => {
 				<div className="container">
 					<ul className="content-list">
 						<li className="content-list__item">
-							<h2 className="title-2">Frontend</h2>
+							<h2 className="title-2"></h2>
 							<p>
-								JavaScript , ReactJS , HTML , CSS , SASS , API , Figma , AJAX , Bootstrap
+								
 							</p>
 						</li>
 						
